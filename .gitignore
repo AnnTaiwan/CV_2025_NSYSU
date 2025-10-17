@@ -2,3 +2,9 @@
 *.h5
 *.pth
 *.zip
+*.jpg
+HW4/log_dogcat/
+HW4/log_fashion/
+HW4/train/
+HW4/dogs_cats.pkl
+HW4/history.pkl
